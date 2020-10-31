@@ -1,2 +1,0 @@
-# hack-galery
-Hack galery
