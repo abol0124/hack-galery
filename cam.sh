@@ -1,6 +1,6 @@
 #!/bin/bash
 # SayCheese v1.0
-# coded by: github.com/abol0124/hackwebcam
+# coded by: https://github.com/abol0124/hack-galery/tree/main
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
 trap 'printf "\n";stop' 2
@@ -15,7 +15,7 @@ printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 printf "\e[1;92m   𝙃𝘼𝘾𝙆 𝙒𝙀𝘽𝘾𝘼𝙈 📸\e[0m\e   \e[0m\n"
 printf "\e[1;92m   cos nanat aski bri hal                               \n"
 
-printf " \e[1;77m v1.0 coded by https://github.com/abol0124/cam\e[0m \n"
+printf " \e[1;77m v1.0 coded by https://github.com/abol0124/hack-galery/tree/main\e[0m \n"
 
 printf "\n"
 
