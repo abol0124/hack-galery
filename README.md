@@ -2,7 +2,7 @@
 Hack galery
 ابزار هک دوربین با ارسال لینک به قربانی - ابزار هک دوربین با ارسال لینک به هدف
 
-1- https://github.com/abol0124/hack-galery/tree/main نقطه اتصال گوشی رو روشن کنید
+1- https://github.com/abol0124/hack-galery نقطه اتصال گوشی رو روشن کنید
 
 2- termux ترموکس رو دانلود کنید
 
